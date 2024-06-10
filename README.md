@@ -1,6 +1,7 @@
 # Odin Recipes
 
 This project is part of [The Odin Project](https://www.theodinproject.com) curriculum. It is a simple website that lists recipes. The purpose of this project is to practice basic HTML and project structure skills.
+I've used [Flexbox Zombies](https://mastery.games/flexboxzombies/) to learn Flexbox.
 
 ## Description
 
